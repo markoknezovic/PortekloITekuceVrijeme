@@ -1,0 +1,18 @@
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\Proteklo i tekuce vrijeme.exe
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\Proteklo i tekuce vrijeme.deps.json
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\Proteklo i tekuce vrijeme.runtimeconfig.json
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\Proteklo i tekuce vrijeme.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\Proteklo i tekuce vrijeme.dll
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\ref\Proteklo i tekuce vrijeme.dll
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\net5.0-windows\Proteklo i tekuce vrijeme.pdb
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo_i_tekuce_vrijeme.Form1.resources
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.csproj.GenerateResource.cache
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.AssemblyInfo.cs
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.dll
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\ref\Proteklo i tekuce vrijeme.dll
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.pdb
+C:\Users\anteu\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\net5.0-windows\Proteklo i tekuce vrijeme.genruntimeconfig.cache
